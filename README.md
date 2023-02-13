@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Boh Yang !</h2>
+<h1 align="left">Hi 👋, I'm Boh Yang !</h1>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
 

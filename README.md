@@ -1,8 +1,8 @@
 # Hi there, I'm Boh Yang ! 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=bohyanggg&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" > <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bohyanggg&theme=vision-friendly-dark&hide_border=false)<br/>
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" > <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bohyanggg&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bohyanggg&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
